@@ -1,1 +1,1 @@
-# labtech-be
+cd ..
